@@ -1,0 +1,6 @@
+Name,Age,Email,Score
+Leela,22.0,leela@example.com,88.0
+Ajay,,ajay@abc.com,76.0
+Anu,24.0,,
+Ajay,22.0,ajay@abc.com,76.0
+,30.0,leela@example.com,91.0
